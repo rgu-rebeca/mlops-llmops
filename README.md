@@ -17,11 +17,17 @@ This allows the model to perform multi-class classification instead of regressio
 
 ## Project Structure
 ├── main.py
+
 ├── data.py
+
 ├── preprocess.py
+
 ├── train.py
+
 ├── airbnb-listings-extract.csv
+
 ├── fastapi_app/
+
 └── README.md
 
 
